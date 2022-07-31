@@ -1,26 +1,10 @@
 import React from 'react'
-import ScrollToTop from './components/ScrollToTop'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import Services from './components/Services'
-import Portfolio from './components/Porfolio'
-import Testimonials from './components/Testimonials'
-import Products from './components/Products'
-import Newsletter from './components/Newsletter'
-import Footer from './components/Footer'
+import './App.css';
 
 const App = () => {
   return (
     <>
-      <ScrollToTop />
-      <Navbar />
-      <Hero />
-      <Services />
-      <Portfolio />
-      <Testimonials />
-      <Products />
-      <Newsletter />
-      <Footer />
+      labas
     </>
   )
 }
