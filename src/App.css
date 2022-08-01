@@ -14,6 +14,7 @@ body{
   background: url("./assets/photo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 
 .baner_content{
@@ -25,7 +26,7 @@ body{
   width: 1200px;
   max-width: 1200px;
   margin: 0 auto;
-  color: white;
+  color: gainsboro;
 }
 .baner_text{
   width: 500px;
@@ -43,4 +44,56 @@ body{
   font-size: 20px;
   font-weight: 400;
   margin-top: 20px;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.navbar_text {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  width: 1200px;
+  margin: 0 auto;
+
+}
+
+.logo{
+  width: 40%;
+}
+
+.navbar_ul {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.navbar_ul li a{
+  text-decoration: none;
+  color: gainsboro;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 25px;
+
+}
+.baner_btn {
+  margin-top: 35px;
+}
+.btn {
+  text-decoration: none;
+  border: none;
+  outline: none;
+  color: gainsboro;
+  font-weight: 700;
+  border-radius: 30px;
+  font-size: 12px;
+  padding: 20px 40px;
+}
+.btn-smart {
+  background-color: rgb(255, 69, 79);
+}
+.about{
+  padding: 80px 0;
 }
