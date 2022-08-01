@@ -21,12 +21,13 @@ body{
   display: flex;
   align-items: center;
   height: 100vh;
+  color: gainsboro;
 }
 .container{
   width: 1200px;
   max-width: 1200px;
   margin: 0 auto;
-  color: gainsboro;
+  
 }
 .baner_text{
   width: 500px;
@@ -97,3 +98,47 @@ body{
 .about{
   padding: 80px 0;
 }
+
+.row{
+  width: 100%;
+  display: flex;
+}
+.col-6{
+  width: 50%;
+}
+.about h3 {
+  color: rgba(37,37,37,0.7);
+  font-size: 30px;
+  margin-bottom: 12px;
+  font-weight: 700;
+
+}
+.about_img img{
+  width: 100%;
+  /* width: 550px;
+  height: 300px;
+  overflow: hidden; */
+}
+.p-25 {
+  padding: 45px;
+}
+
+.about h1 {
+  font-size: 40px;
+  color: #252525;
+  font-size: 700;
+  line-height: 40px;
+  margin-bottom: 15px;
+}
+
+.about p {
+  font-size: 18px;
+  color: #8b8b8b;
+  font-weight: 300;
+}
+
+.about_btn{
+  margin-top: 35px;
+}
+
+
