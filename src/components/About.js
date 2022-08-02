@@ -1,6 +1,5 @@
 import React from 'react'
 import IMG1 from '../assets/koliazas3.jpg'
-import IMG2 from '../assets/koliazas2.jpg'
 
 const About = () => {
     return (
