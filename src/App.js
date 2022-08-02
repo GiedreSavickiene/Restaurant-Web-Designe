@@ -2,6 +2,7 @@ import React from 'react'
 import './App.css';
 import About from './components/About';
 import Clients from './components/Clients';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Menu from './components/Menu';
 import Prices from './components/Prices';
@@ -18,6 +19,7 @@ const App = () => {
       <Menu />
       <Clients />
       <Prices />
+      <Footer />
 
     </div>
   )
