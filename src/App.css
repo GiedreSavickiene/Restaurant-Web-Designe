@@ -173,5 +173,26 @@ body{
   margin-top: 35px;
   text-align: center;
 }
+.clients{
+  width: 100%;
+  padding: 100px 0;
+  background: url(./assets/photo.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  color: gainsboro;
+  background-attachment: fixed;
+}
+.col-3{
+  width: 25%;
+  text-align: center;
+}
+.client h1 {
+  font-size: 45px;
+}
+.client p {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+}
 
 
