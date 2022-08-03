@@ -52,6 +52,7 @@ body{
   top: 0;
   left: 0;
   width: 100%;
+  
 }
 .navbar_text {
   display: flex;
@@ -80,6 +81,11 @@ body{
   font-size: 25px;
 
 }
+.navbar_ul li a:hover{
+  text-decoration: underline;
+  color: rgb(255, 69, 79);
+
+}
 .baner_btn {
   margin-top: 35px;
 }
@@ -95,6 +101,9 @@ body{
 }
 .btn-smart {
   background-color: rgb(255, 69, 79);
+}
+.btn-smart:hover{
+  background-color: rgb(238, 31, 42) ;
 }
 .about{
   padding: 80px 0;
@@ -254,6 +263,73 @@ body{
   padding: 15px;
   border-radius: 50%;
   
+}
+
+.mobile_navigation{
+  display: none;
+}
+
+@media (max-width: 990px){
+  .navigation{
+    display: none;
+  }
+  .mobile_navigation{
+    display: flex;
+    align-items: center;
+    
+  }
+  .hamburger{
+    position: absolute;
+    margin-top: 10%;
+    right: 5%;
+    cursor: pointer;
+  }
+
+  .close{
+    position: absolute;
+      margin-top: 5%;
+      right: 5%;
+      cursor: pointer;
+  }
+  .navbar_text{
+    display: flex;
+      height: auto;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+      width: 100%;
+    
+  }
+  .navbar{
+    background-color: #181818;
+    opacity: 0.9;
+    height: 260px;
+    
+    
+  }
+  .navbar ul{
+    display: flex;
+   flex-direction: column;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    border-top: 2px solid white;
+
+  }
+    .navbar_ul li {
+      padding: 5px;
+  
+    }
+
+    .navbar_ul li a {
+     text-transform: none;
+      font-weight: 500;
+      font-size: 20px;
+    }
+    .navbar_ul li a:hover{
+      text-decoration: underline;
+    }
 }
 
 

@@ -3,7 +3,7 @@ import IMG1 from '../assets/moksha-curry.jpeg'
 
 const Menu = () => {
     return (
-        <div className='about'>
+        <div className='about' id="menu">
             <div className="container">
                 <div className='row'>
 
