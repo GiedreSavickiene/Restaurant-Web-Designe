@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Restaurant-Web-Designe/static/css/main.a359794a.css",
-    "main.js": "/Restaurant-Web-Designe/static/js/main.512d4303.js",
+    "main.css": "/Restaurant-Web-Designe/static/css/main.bd07f0b8.css",
+    "main.js": "/Restaurant-Web-Designe/static/js/main.0615ca50.js",
     "static/media/pexels-photo-1640771.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-1640771.1be9d43a8f717a2be810.jpeg",
     "static/media/pexels-photo-1640777.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-1640777.4211c58192c340d151bd.jpeg",
     "static/media/pexels-photo-566566.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-566566.1883e5e8eff9b2b50232.jpeg",
@@ -12,11 +12,11 @@
     "static/media/moksha-curry.jpeg": "/Restaurant-Web-Designe/static/media/moksha-curry.1e2d7f5a7e63a60ee0cf.jpeg",
     "static/media/photo.jpg": "/Restaurant-Web-Designe/static/media/photo.07583fe622834e35d9fa.jpg",
     "index.html": "/Restaurant-Web-Designe/index.html",
-    "main.a359794a.css.map": "/Restaurant-Web-Designe/static/css/main.a359794a.css.map",
-    "main.512d4303.js.map": "/Restaurant-Web-Designe/static/js/main.512d4303.js.map"
+    "main.bd07f0b8.css.map": "/Restaurant-Web-Designe/static/css/main.bd07f0b8.css.map",
+    "main.0615ca50.js.map": "/Restaurant-Web-Designe/static/js/main.0615ca50.js.map"
   },
   "entrypoints": [
-    "static/css/main.a359794a.css",
-    "static/js/main.512d4303.js"
+    "static/css/main.bd07f0b8.css",
+    "static/js/main.0615ca50.js"
   ]
 }
