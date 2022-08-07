@@ -14,7 +14,7 @@ const MobileNavigation = () => {
         color="gainsboro"
         onClick={() => setOpen(!open)}
     />
-    const closeIcon = <FaRegWindowClose className="close"
+    const closeIcon = <FaRegWindowClose className="hamburger"
         size='40px'
         color="gainsboro"
         onClick={() => setOpen(!open)}
