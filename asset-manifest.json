@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restaurant-Web-Designe/static/css/main.bd07f0b8.css",
-    "main.js": "/Restaurant-Web-Designe/static/js/main.0615ca50.js",
+    "main.js": "/Restaurant-Web-Designe/static/js/main.6a7d10b5.js",
     "static/media/pexels-photo-1640771.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-1640771.1be9d43a8f717a2be810.jpeg",
     "static/media/pexels-photo-1640777.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-1640777.4211c58192c340d151bd.jpeg",
     "static/media/pexels-photo-566566.jpeg": "/Restaurant-Web-Designe/static/media/pexels-photo-566566.1883e5e8eff9b2b50232.jpeg",
@@ -13,10 +13,10 @@
     "static/media/photo.jpg": "/Restaurant-Web-Designe/static/media/photo.07583fe622834e35d9fa.jpg",
     "index.html": "/Restaurant-Web-Designe/index.html",
     "main.bd07f0b8.css.map": "/Restaurant-Web-Designe/static/css/main.bd07f0b8.css.map",
-    "main.0615ca50.js.map": "/Restaurant-Web-Designe/static/js/main.0615ca50.js.map"
+    "main.6a7d10b5.js.map": "/Restaurant-Web-Designe/static/js/main.6a7d10b5.js.map"
   },
   "entrypoints": [
     "static/css/main.bd07f0b8.css",
-    "static/js/main.0615ca50.js"
+    "static/js/main.6a7d10b5.js"
   ]
 }
